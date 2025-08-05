@@ -5,8 +5,7 @@
 
 ## 🧑‍💻 Sobre mí
 <p>
-  <img src="https://github.com/user-attachments/assets/cbad727e-43fa-4945-9d29-01e186c1b6e6" width="30" height="30" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>¡Hola!</strong> Soy un apasionado por la tecnología desde Argentina. Me encanta aprender haciendo, resolver problemas reales con soluciones simples y compartir siempre con buena onda 🤝✨
+  <strong>¡Hola!</strong> Soy un apasionado por la tecnología desde <img src="https://github.com/user-attachments/assets/cbad727e-43fa-4945-9d29-01e186c1b6e6" width="28" height="28" style="vertical-align: middle; margin-right: 8px;" />🇦🇷. Me encanta aprender haciendo, resolver problemas reales con soluciones simples y compartir siempre con buena onda 🤝✨
 </p>
 
 
@@ -33,6 +32,46 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="36" height="36" />
+  ## 🧠 Proyectos destacados
+
+A continuación, algunos de los proyectos que estoy desarrollando y manteniendo activamente. Algunos están publicados, otros en proceso de mejora y otros pronto serán subidos a mi perfil.
+
+### 🎮 Juego de TA-TE-TI en Python
+- Desarrollo modular en múltiples archivos `.py` para facilitar mantenimiento y escalabilidad.
+- Lógica de validación de jugadas, turnos y detección de empate o victoria.
+- Análisis con flujo de control (*caja blanca*).
+- Implementación en curso de interfaz gráfica con Tkinter.
+- 📌 [Ver en GitHub](https://github.com/AFigueroaAgustin/recreacion-TaTeTi-python)
+
+---
+
+### 🔄 API REST con Spring Boot + JPA
+- CRUD básico usando Java, Spring Boot, JPA y PostgreSQL.
+- Arquitectura en capas: controladores, servicios y repositorios bien separados.
+- Proyecto dockerizado para facilitar despliegues.
+- 📌 [Ver en GitHub](https://github.com/AFigueroaAgustin/Java-CRUD-api-test)
+
+---
+
+### 💸 Caja Registradora con Swing (En desarrollo)
+- Proyecto en Java con GUI desarrollada en Swing para una caja de cobranzas.
+- Incluye múltiples pantallas, manejo de datos y lógica para registrar ventas.
+- Próximamente será subido a GitHub.
+
+---
+
+### 🧮 Calculadora de Impuestos (Próximamente)
+- Aplicación en Python con interfaz Tkinter para calcular intereses futuros de inversiones.
+- Herramienta enfocada en planificación financiera personal.
+- Será publicada próximamente.
+
+---
+
+### 🚧 Más proyectos en camino...
+Estoy constantemente aprendiendo y sumando nuevas ideas. Algunos desarrollos están aún en progreso o esperando ser subidos. ¡Estate atento a las novedades en mi repositorio!
+
+👉 [github.com/AFigueroaAgustin](https://github.com/AFigueroaAgustin)
+
 </p>
 
 [![DEREK's stats](https://github-readme-stats.vercel.app/api?username=AFigueroaAgustin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/AFigueroaAgustin)
