@@ -32,7 +32,8 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="36" height="36" />
-  ## 🧠 Proyectos destacados
+
+## 🧠 Proyectos destacados
 
 A continuación, algunos de los proyectos que estoy desarrollando y manteniendo activamente. Algunos están publicados, otros en proceso de mejora y otros pronto serán subidos a mi perfil.
 
