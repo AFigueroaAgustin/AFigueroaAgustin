@@ -58,7 +58,7 @@ A continuación, algunos de los proyectos que estoy desarrollando y manteniendo 
 - Proyecto en Java con GUI desarrollada en Swing para una caja de cobranzas.
 - Incluye lógica para registrar ventas
 - Ticket de compra
-- 📌 [Ver en GitHub](https://github.com/AFigueroaAgustin/caja-registradora-java)
+- 📌 [Ver en GitHub](https://github.com/AFigueroaAgustin/SistemaPuntoDeVenta-Java)
 
 ---
 
