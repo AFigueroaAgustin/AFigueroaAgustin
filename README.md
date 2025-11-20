@@ -72,8 +72,6 @@ A continuación, algunos de los proyectos que estoy desarrollando y manteniendo 
 ### 🚧 Más proyectos en camino...
 Estoy constantemente aprendiendo y sumando nuevas ideas. Algunos desarrollos están aún en progreso o esperando ser subidos. ¡Estate atento a las novedades en mi repositorio!
 
-👉 [github.com/AFigueroaAgustin](https://github.com/AFigueroaAgustin)
-
 </p>
 
 [![DEREK's stats](https://github-readme-stats.vercel.app/api?username=AFigueroaAgustin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/AFigueroaAgustin)
